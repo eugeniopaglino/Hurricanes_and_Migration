@@ -3,4 +3,4 @@ This repository contains county-to-county migration data from the Internal Reven
 
 In addition to the datafiles, I've also uploaded five Python notebooks which I have used to analyse the impact of Hurricanes Katrina and Sandy on the migration system of the affected counties. There are, for each Hurricane, an inflow analysis and an outflow analysis notebook. To have more details on the analysis, refer to the article uploaded in the ```articles``` folder. Finally, I've added the Python notebook I've used to construct the dataset I then employed in the regression analysis (refer again to the article).
 
-I will soon add also the Stata dofile I've used for the regression analysis in notebook form.
+I've added also the Stata do-file I've used to perform the regression analysis on Katrina and Sandy. In the ```scripts``` forlder there are now both a do-file ```regression_analysis.do``` and a notebook version of it ```regression_analysis.ipynb```.
